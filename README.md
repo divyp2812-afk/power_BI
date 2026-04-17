@@ -139,6 +139,14 @@ Relationships working correctly ✅
 No ambiguity ❌
 Filters behaving properly ✅
 🔹 Final Output
+<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/03e7a46f-b87c-478b-98c8-7b5100564d4d" />
+
+<img width="402" height="707" alt="image" src="https://github.com/user-attachments/assets/73d3d89e-b622-48bb-af75-25818baa4ef2" />
+
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/955628a8-a922-408b-af5e-ff9cb7010618" />
+
+
+
 
 ✅ Star Schema Data Model Created
 ✅ Relationships Optimized
