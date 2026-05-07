@@ -1,0 +1,152 @@
+📊 Sales & Performance Analytics Dashboard (Power BI)
+💡 Project Overview
+An end‑to‑end Power BI development project covering:
+
+🧩 Data Modeling (Star Schema)
+
+🧮 DAX Measures & Calculations
+
+📅 Time Intelligence Analysis
+
+📊 Interactive Dashboard Design
+
+🎛️ Advanced Filtering & Navigation
+
+Goal: Transform raw data into actionable business insights that drive smarter decisions.
+
+🗂️ Dataset Structure
+Tables used in the model:
+
+Date_Dim
+
+Customer_Dim
+
+Product_Dim
+
+Region_Dim
+
+Sales_Fact
+
+Returns_Fact
+
+🧩 Data Modeling
+Designed Fact–Dimension relationships
+
+Applied Primary (PK) and Foreign Keys (FK)
+
+Followed Star Schema principles for simplicity and performance
+
+✅ Ensured:
+
+Clean, consistent structure
+
+Logical naming conventions
+
+Optimized relationships for query efficiency
+
+🧮 DAX Measures
+Built dynamic measures using:
+
+CALCULATE, FILTER, ALL, SUMX, COUNTX, AVERAGEX
+
+🧠 Calculated Columns
+Profit Margin Category → High / Medium / Low
+
+Customer Full Name → FirstName & " " & LastName
+
+Year‑Month Label → FORMAT(Date, "YYYY‑MMM")
+
+📅 Time Intelligence
+Implemented advanced date‑based analytics:
+
+📈 YOY Growth (Year‑over‑Year)
+
+📊 MOM Growth (Month‑over‑Month)
+
+📆 YTD Sales & Returns (Year‑to‑Date)
+
+🔍 Identified seasonal patterns and performance cycles.
+
+📊 Dashboard Design
+🧭 Layout
+1 Main Dashboard
+
+2 Detail Pages
+
+1 Drillthrough Page
+
+📉 Visuals
+KPI Cards
+
+Line & Bar Charts
+
+Donut Charts
+
+Matrix Tables
+
+💡 Insights
+Top N Products by Sales
+
+Top N Customers by Profit
+
+Trend & Forecast Analysis
+
+🎛️ Filtering & Interaction
+🎚️ Slicers
+Product
+
+Customer Segment
+
+Region
+
+Date
+
+⚙️ Interactive Features
+Drill Down / Drill Up
+
+Drillthrough Filters
+
+Numeric Range Parameters
+
+🎨 Navigation & UX
+🔘 Custom Buttons for page transitions
+
+🔖 Bookmarks for smooth navigation
+
+💡 Tooltip pages for contextual insights
+
+✨ Clean, intuitive user interface
+
+⚙️ Tools Used
+🖥️ Power BI Desktop
+
+🔄 Power Query (ETL)
+
+📐 DAX (Data Analysis Expressions)
+
+📷 Dashboard Preview
+(Insert screenshot or visual mockup here)
+
+📁 Project File
+Final.pr.pbix → Main Power BI file
+
+🚀 How to Use
+Download the .pbix file
+
+Open in Power BI Desktop
+
+Refresh data if needed
+
+Explore visuals and insights
+
+🎯 Key Learnings
+Star Schema Modeling
+
+Advanced DAX Techniques
+
+Time Intelligence Functions
+
+Dashboard Design Principles
+
+Business Insight Generation
+
