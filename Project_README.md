@@ -1,4 +1,8 @@
 🎓 Student Performance Dashboard (Power BI Project)
+
+Demo Video Link
+https://drive.google.com/drive/folders/1yzzoDIGlfsFGqxwLx8D5bLaL6J0NGFjx
+
 🌈 Theme
 Modern, minimal, and infographic‑driven
 
@@ -99,4 +103,3 @@ Subtitle: Questions or Feedback?
 Visuals:  
 Include Power BI logo, trophy icon, and subtle gradient background.
 
-<img width="1024" height="1536" alt="image" src="https://github.com/divyp2812-afk/power_BI/blob/main/Screenshot%202026-05-07%20112953.png"/>
