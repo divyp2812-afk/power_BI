@@ -1,7 +1,7 @@
 📊 Sales & Performance Analytics Dashboard (Power BI)
 
 Demo Video Link
-https://drive.google.com/drive/folders/1bdwJFU8GPoBgdjrwBfOXbH94BWu7wRnC
+https://drive.google.com/file/d/1RATzWasdTNAA7dfHDSJMP3T06wNcNzlE/view?usp=sharing
 
 
 💡 Project Overview
