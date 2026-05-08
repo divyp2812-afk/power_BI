@@ -1,7 +1,7 @@
-🎓 Student Performance Dashboard (Power BI Project)
+**🎓 Student Performance Dashboard (Power BI Project)**
 
 Demo Video Link
-https://drive.google.com/drive/folders/1yzzoDIGlfsFGqxwLx8D5bLaL6J0NGFjx
+https://drive.google.com/file/d/1axHamNx5zTpuEFRO0GMPgVXWfPe0mEeR/view?usp=sharing
 
 🌈 Theme
 Modern, minimal, and infographic‑driven
