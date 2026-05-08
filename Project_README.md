@@ -3,7 +3,7 @@
 Demo Video Link
 https://drive.google.com/file/d/1axHamNx5zTpuEFRO0GMPgVXWfPe0mEeR/view?usp=sharing
 
-🌈 Theme
+**🌈 Theme**
 Modern, minimal, and infographic‑driven
 
 Soft gradient palette (blue → teal → violet)
@@ -12,15 +12,15 @@ Balanced white space and card‑style visuals
 
 Icons for clarity, concise text for readability
 
-🟦 Slide 1: Title Page
+**🟦 Slide 1: Title Page**
 Title: Student Performance Dashboard  
 Subtitle: Data Modeling, DAX & Interactive Visualization
 
 Overview:  
 A comprehensive Power BI project analyzing student performance through structured data modeling, dynamic DAX measures, and interactive visual storytelling.
 
-🟩 Slide 2: Data Modeling & Preparation
-Key Steps:
+**🟩 Slide 2: Data Modeling & Preparation**
+**Key Steps:**
 
 Import datasets and define relationships
 
@@ -30,11 +30,11 @@ Handle missing or null values
 
 Create lookup tables for Class, Subject, and Term
 
-Purpose:  
+**Purpose:**
 Ensures clean, connected data for accurate analysis and seamless dashboard performance.
 
-🟪 Slide 3: DAX Measures
-Core Calculations:
+****🟪 Slide 3: DAX Measures
+Core Calculations:**
 
 % Score = DIVIDE(SUM(Scores[Score]),SUM(Scores[MaxScore]))*100
 
@@ -46,25 +46,25 @@ Behavior Count = DISTINCTCOUNT(Behavior[BehaviorType])
 
 CATEGORY = SWITCH(TRUE(),[% Score] >= 80,"HIGH" , [% Score] >= 40 ,"MEDIUM" , "LOW")
 
-Purpose:  
+**Purpose:**
 Transforms raw data into actionable insights using dynamic, reusable measures.
 
-🟦 Slide 4: Visual Analytics
-Visuals:
+**🟦 Slide 4: Visual Analytics
+Visuals:**
 
-Bar Chart: Average scores by Subject & Class
+**Bar Chart:** Average scores by Subject & Class
 
-Line Chart: Term‑wise performance trend
+**Line Chart:** Term‑wise performance trend
 
-Donut Chart: Behavior distribution
+**Donut Chart:** Behavior distribution
 
-Table: Student‑wise scores with conditional formatting
+**Table:** Student‑wise scores with conditional formatting
 
 🟩 Green → >80%
 
 🟥 Red → <40%
 
-Cards:
+**Cards:**
 
 Total Students
 
@@ -72,11 +72,11 @@ Average Attendance
 
 Average Score
 
-Purpose:  
+**Purpose:**  
 Visuals highlight trends, comparisons, and KPIs for quick interpretation.
 
-🟩 Slide 5: Interactivity
-Interactive Elements:
+**🟩 Slide 5: Interactivity
+Interactive Elements:**
 
 Slicers → Class, Section, Subject, Term
 
@@ -86,20 +86,20 @@ Tooltips → Mini charts & metrics
 
 Bookmarks → Toggle Academic ↔ Behavioral views
 
-Purpose:  
+**Purpose:**  
 Empowers users to explore data dynamically and personalize insights.
 
-🟪 Slide 6: Mobile Optimization
-Feature:  
+**🟪 Slide 6: Mobile Optimization
+Feature:** 
 Responsive layout for Power BI Mobile App
 
-Purpose:  
+**Purpose:** 
 Ensures accessibility and usability across devices.
 
-🟦 Slide 7: Closing Slide
-Title: Thank You!  
-Subtitle: Questions or Feedback?
+**🟦 Slide 7: Closing Slide**
+**Title:** Thank You!  
+**Subtitle:** Questions or Feedback?
 
-Visuals:  
+**Visuals:**  
 Include Power BI logo, trophy icon, and subtle gradient background.
 
