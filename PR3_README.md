@@ -1,7 +1,5 @@
 📊 Sales Data Model – Power BI Project
 
-Demo Video Link
-https://drive.google.com/drive/folders/1bdwJFU8GPoBgdjrwBfOXbH94BWu7wRnC
 
 📌 Project Overview
 This project demonstrates data modeling and analysis in Power BI with a focus on:
