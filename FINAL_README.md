@@ -1,4 +1,9 @@
 📊 Sales & Performance Analytics Dashboard (Power BI)
+
+Demo Video Link
+https://drive.google.com/drive/folders/1bdwJFU8GPoBgdjrwBfOXbH94BWu7wRnC
+
+
 💡 Project Overview
 An end‑to‑end Power BI development project covering:
 
